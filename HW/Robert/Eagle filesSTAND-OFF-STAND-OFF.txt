@@ -1,0 +1,19 @@
+(Orcad device STAND-OFF-STAND-OFF)
+(Eagle device : STAND-OFF)
+(Eagle library : SparkFun)
+(Eagle Description : <b>Stand Off</b><p> This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components. SKU : PRT-00447)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE STAND-OFF
+CLASS IO
+PINCOUNT 0
+PINORDER STAND-OFF 
+PINUSE STAND-OFF 
+FUNCTION G_1 STAND-OFF 
+PACKAGEPROP PART_NAME JP
+PACKAGEPROP VALUE STAND-OFF
+END
+

@@ -1,0 +1,20 @@
+(Orcad device SOLDERJUMPERNO-SOLDERJUMPERNO)
+(Eagle device : SOLDERJUMPERNO)
+(Eagle library : SparkFun)
+(Eagle Description : <b>Solder Jumper</b> Standard SMD solder jumper. Used to automate production. Two varients : Normally Open and Normally Closed are the same, but have different paste layers. NC will have a large amount of paste and should jumper during reflow.)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE SJ_2S-NO
+CLASS DISCRETE
+PINCOUNT 2
+PINORDER SJ '1' '2' 
+PINUSE SJ UNSPEC UNSPEC 
+PINSWAP SJ '1' '2' 
+FUNCTION 1 SJ 1 2 
+PACKAGEPROP PART_NAME SJ
+PACKAGEPROP VALUE SOLDERJUMPERNO
+END
+

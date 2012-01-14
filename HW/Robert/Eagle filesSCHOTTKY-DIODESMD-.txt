@@ -1,0 +1,19 @@
+(Orcad device SCHOTTKY-DIODESMD-)
+(Eagle device : SCHOTTKY-DIODESMD)
+(Eagle library : diode)
+(Eagle Description : Schottky Diode)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE SMB
+CLASS DISCRETE
+PINCOUNT 2
+PINORDER SCHOTTKY 'A' 'C' 
+PINUSE SCHOTTKY UNSPEC UNSPEC 
+FUNCTION G_1 SCHOTTKY 2 C 
+PACKAGEPROP PART_NAME D
+PACKAGEPROP VALUE 
+END
+

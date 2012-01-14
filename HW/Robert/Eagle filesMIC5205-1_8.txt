@@ -1,0 +1,19 @@
+(Orcad device MIC5205-1_8)
+(Eagle device : MIC5205)
+(Eagle library : dp_devices)
+(Eagle Description : 150ma Low-Noise LDO Regulator)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE SOT-23-5
+CLASS DISCRETE
+PINCOUNT 5
+PINORDER MIC5205 'BYP' 'EN' 'GND' 'IN' 'OUT' 
+PINUSE MIC5205 BI BI BI BI BI 
+FUNCTION G_1 MIC5205 4 3 2 1 5 
+PACKAGEPROP PART_NAME VR
+PACKAGEPROP VALUE 1_8
+END
+

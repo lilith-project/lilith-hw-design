@@ -1,0 +1,19 @@
+(Orcad device HR911105A-HR911105A)
+(Eagle device : HR911105A)
+(Eagle library : CONNECTER)
+(Eagle Description : )
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE HR911105A
+CLASS DISCRETE
+PINCOUNT 12
+PINORDER HR911105A '1' '2' '3' '4' '5' '6' '9' '10' '11' '12' '13' '14' 
+PINUSE HR911105A BI BI BI BI BI BI BI BI BI BI BI BI 
+FUNCTION G_1 HR911105A 1 2 3 4 5 6 9 10 11 12 13 14 
+PACKAGEPROP PART_NAME 
+PACKAGEPROP VALUE HR911105A
+END
+

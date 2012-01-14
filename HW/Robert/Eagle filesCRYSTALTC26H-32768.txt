@@ -1,0 +1,20 @@
+(Orcad device CRYSTALTC26H-32768)
+(Eagle device : CRYSTALTC26H)
+(Eagle library : crystal)
+(Eagle Description : <b>CRYSTAL</b>)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE TC26H
+CLASS DISCRETE
+PINCOUNT 2
+PINORDER Q '1' '2' 
+PINUSE Q UNSPEC UNSPEC 
+PINSWAP Q '1' '2' 
+FUNCTION G_1 Q 1 2 
+PACKAGEPROP PART_NAME Q
+PACKAGEPROP VALUE 32768
+END
+

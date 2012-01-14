@@ -1,0 +1,32 @@
+(Orcad device MT48LC64M4A2-MT48LC64M4A2)
+(Eagle device : MT48LC64M4A2)
+(Eagle library : memory-micron)
+(Eagle Description : <b>256Mb: x16 SDRAM</b> MT48LC64M4A2 - 16 Meg x 4 x 4 banks<p> Source: http://download.micron.com/pdf/datasheets/dram/sdram/256MSDRAM.pdf)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE TSOP54-400
+CLASS IC
+PINCOUNT 54
+PINORDER MT48LC64M444A2 '_CAS' '_RAS' '_WE' 'A0' 'A1' 'A2' 'A3' 'A4' 'A5' 'A6' ,
+   'A7' 'A8' 'A9' 'A10' 'A11' 'A12' 'BA0' 'BA1' 'CKE' 'CLK' ,
+   'DQ0' 'DQ1' 'DQ2' 'DQ3' 'DQ4' 'DQ5' 'DQ6' 'DQ7' 'DQ8' 'DQ9' ,
+   'DQ10' 'DQ11' 'DQ12' 'DQ13' 'DQ14' 'DQ15' 'DQMH' 'DQML' 'NC' ,
+   '\CS' 
+PINUSE MT48LC64M444A2 IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN ,
+   IN TRI TRI TRI TRI TRI TRI TRI TRI TRI TRI TRI TRI TRI TRI ,
+   TRI TRI IN IN NC IN 
+FUNCTION G_1 MT48LC64M444A2 17 18 16 23 24 25 26 29 30 31 32 33 34 22 35 36 20 21 37 ,
+   38 2 4 5 7 8 10 11 13 42 44 45 47 48 50 51 53 39 15 40 19 
+PINORDER MT48LC64_32_16M-PWR 'VDD@1' 'VDD@2' 'VDD@3' 'VDDQ@1' 'VDDQ@2' 'VDDQ@3' ,
+   'VDDQ@4' 'VSS@1' 'VSS@2' 'VSS@3' 'VSSQ@1' 'VSSQ@2' 'VSSQ@3' ,
+   'VSSQ@4' 
+PINUSE MT48LC64_32_16M-PWR POWER POWER POWER POWER POWER POWER POWER GROUND GROUND ,
+   GROUND GROUND GROUND GROUND GROUND 
+FUNCTION P MT48LC64_32_16M-PWR 1 14 27 3 9 43 49 28 41 54 6 12 46 52 
+PACKAGEPROP PART_NAME IC
+PACKAGEPROP VALUE MT48LC64M4A2
+END
+

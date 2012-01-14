@@ -1,0 +1,23 @@
+(Orcad device RNETWORK-100k)
+(Eagle device : RNETWORK)
+(Eagle library : dp_devices)
+(Eagle Description : 4 Resistor Array 0603)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE RN8P-4R-CRA06S
+CLASS DISCRETE
+PINCOUNT 8
+PINORDER RESISTOR_B '1' '2' 
+PINUSE RESISTOR_B UNSPEC UNSPEC 
+PINSWAP RESISTOR_B '1' '2' 
+FUNCTION A RESISTOR_B 1 8 
+FUNCTION B RESISTOR_B 2 7 
+FUNCTION C RESISTOR_B 3 6 
+FUNCTION D RESISTOR_B 4 5 
+PACKAGEPROP PART_NAME RN
+PACKAGEPROP VALUE 100k
+END
+

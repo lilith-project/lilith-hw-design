@@ -1,0 +1,94 @@
+--------------------------------------------------------------------------------
+Symbol and Schematic Translator for PADS Logic 
+Release: PADS 9.3
+GBS Install Id: 17460
+Copyright (C) 2010 Mentor Graphics Corp.
+Translation start: 12/01/2012 00:05:10
+Input file: C:\Users\Matthieu\Desktop\Lilith\Proof of concept\Datasheets\Ethernet PHY\KSZ8041TL-FTL_v1.4_DP\Schematic\Eval Board\Board Revision 1.1\KSZ8041TL-FTL Eval Board Rev1.1 -- Schematic rev2.0.dsn
+File type: (2,1) OrCAD Capture design file version 9
+[E] Incomplete package definition, missing pin number in package: 'CAP NP', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'CAP NP', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'RESISTOR_1', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'RESISTOR_1', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'JUMPER', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'JUMPER', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'CAPACITOR POL', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'CAPACITOR POL', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'RESISTOR', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'RESISTOR', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'JUMPERx3', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'JUMPERx3', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'JUMPERx3', pin name '3' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'R', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'R', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'R', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'R', pin name '2' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'CRYSTAL', pin name '1' used as pin number
+[E] Incomplete package definition, missing pin number in package: 'CRYSTAL', pin name '2' used as pin number
+[E] Regular component is used as a hierarchical block: 'J24' on sheet 'PAGE 04:  TL-FTL UTP Interface'
+Output path: C:\Users\Matthieu\Desktop\Lilith\Proof of concept\Datasheets\Ethernet PHY\KSZ8041TL-FTL_v1.4_DP\Schematic\Eval Board\Board Revision 1.1\KSZ8041TL-FTL Eval Board Rev1.1 -- Schematic rev2.0.sch
+[W] Text was splitted at: (600, 8120) on sheet 'PAGE_01:__REVISION_HISTORY'
+[W] Text was splitted at: (12200, 8120) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (8000, 3420) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (9500, 4620) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (6500, 5900) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (3400, 6860) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (6200, 3360) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (3100, 4960) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (12200, 3820) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (8200, 8220) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (9200, 5720) on sheet 'PAGE_02:__TL-FTL_BLOCK_DIAGRAM'
+[W] Text was splitted at: (2200, 10940) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (300, 10480) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (200, 4180) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (8200, 3140) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (5300, 620) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (13800, 10840) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (6800, 10960) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (4800, 10960) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (9900, 3140) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (9000, 10960) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Text was splitted at: (200, 4780) on sheet 'PAGE_03:__KSZ8041TL-FTL_DEVICE'
+[W] Symbol has no shape: JUMPER
+[W] Renamed or converted to uppercase illegal net name: '1.8V' to '1_8V'
+[W] Renamed or converted to uppercase illegal net name: '1.8V_OUT' to '1_8V_OUT'
+[W] Renamed or converted to uppercase illegal net name: '3.3A' to '3_3A'
+[W] Renamed or converted to uppercase illegal net name: '1.8A' to '1_8A'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '1.8V' to '1_8V'
+[W] Renamed or converted to uppercase illegal net name: '1.8V_OUT' to '1_8V_OUT'
+[W] Renamed or converted to uppercase illegal net name: '3.3A' to '3_3A'
+[W] Renamed or converted to uppercase illegal net name: '1.8A' to '1_8A'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Text was splitted at: (2400, 7120) on sheet 'PAGE_04:__TL-FTL_UTP_INTERFACE'
+[W] Text was splitted at: (10600, 2560) on sheet 'PAGE_04:__TL-FTL_UTP_INTERFACE'
+[W] Text was splitted at: (11500, 10740) on sheet 'PAGE_04:__TL-FTL_UTP_INTERFACE'
+[W] Text was splitted at: (11500, 9700) on sheet 'PAGE_04:__TL-FTL_UTP_INTERFACE'
+[W] Renamed or converted to uppercase illegal net name: '3.3A' to '3_3A'
+[W] Text was splitted at: (4200, 10480) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (8100, 9180) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (13200, 8120) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (11100, 10500) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (3800, 3940) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (10200, 9020) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (4200, 9560) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (400, 5340) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (400, 600) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Text was splitted at: (8100, 2140) on sheet 'PAGE_05:__FTL_FIBER_INTERFACE'
+[W] Renamed or converted to uppercase illegal net name: '3.3A' to '3_3A'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Renamed or converted to uppercase illegal net name: '3.3A' to '3_3A'
+[W] Renamed or converted to uppercase illegal net name: '3.3V' to '3_3V'
+[W] Text was splitted at: (11100, 10600) on sheet 'PAGE_06:__FTL_POF_OPTION'
+[W] Text was splitted at: (7200, 8540) on sheet 'PAGE_06:__FTL_POF_OPTION'
+[W] Text was splitted at: (600, 9520) on sheet 'PAGE_06:__FTL_POF_OPTION'
+[O] Created 75 symbol(s) and 6 schematic sheet(s)
+20 error(s) and 60 warning(s) found
+Finished on 12/01/2012 at 00:05:10.
+--------------------------------------------------------------------------------
+Total: 60 warning(s), 20 error(s)

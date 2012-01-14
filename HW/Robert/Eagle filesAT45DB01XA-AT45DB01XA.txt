@@ -1,0 +1,19 @@
+(Orcad device AT45DB01XA-AT45DB01XA)
+(Eagle device : AT45DB01XA)
+(Eagle library : memory-atmel)
+(Eagle Description : <b>EEPROM</b><p>  SPI bus serial)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE SO08W
+CLASS IC
+PINCOUNT 8
+PINORDER AT45DB01X '_CS_' '_RST_' '_WP_' 'GND' 'SCK' 'SI' 'SO' 'VCC' 
+PINUSE AT45DB01X BI BI BI GROUND BI BI BI POWER 
+FUNCTION G_1 AT45DB01X 4 3 5 7 2 1 8 6 
+PACKAGEPROP PART_NAME U
+PACKAGEPROP VALUE AT45DB01XA
+END
+

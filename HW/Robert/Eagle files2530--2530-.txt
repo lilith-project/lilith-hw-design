@@ -1,0 +1,50 @@
+(Orcad device 2530--2530-)
+(Eagle device : 2530-)
+(Eagle library : con-3m)
+(Eagle Description : <b>3M (TM) Pak 100 4-Wall Header</b><p> Source: 3M)
+(Exported from Eagle Linux_board.va.sch schematic to Telesis/Allegro netlist)
+(Date 2011-11-8 22:34:10)
+(One device file is required for each device type; Device files contain physical information for the components in the netlist.)
+(Package names and Value defined here are overwritten by package name and Value defined in the Netlist.)
+(See Allegro PCB Editor User Guide / Defining and Developing Libraries / Preparing Device Files for more info.)
+PACKAGE PAK100_2500-30
+CLASS IO
+PINCOUNT 30
+PINORDER PINV 'KL' 
+PINUSE PINV UNSPEC 
+FUNCTION -1 PINV 1 
+PINORDER PIN 'KL' 
+PINUSE PIN UNSPEC 
+FUNCTION -2 PIN 2 
+FUNCTION -3 PIN 3 
+FUNCTION -4 PIN 4 
+FUNCTION -5 PIN 5 
+FUNCTION -6 PIN 6 
+FUNCTION -7 PIN 7 
+FUNCTION -8 PIN 8 
+FUNCTION -9 PIN 9 
+FUNCTION -10 PIN 10 
+FUNCTION -11 PIN 11 
+FUNCTION -12 PIN 12 
+FUNCTION -13 PIN 13 
+FUNCTION -14 PIN 14 
+FUNCTION -15 PIN 15 
+FUNCTION -16 PIN 16 
+FUNCTION -17 PIN 17 
+FUNCTION -18 PIN 18 
+FUNCTION -19 PIN 19 
+FUNCTION -20 PIN 20 
+FUNCTION -21 PIN 21 
+FUNCTION -22 PIN 22 
+FUNCTION -23 PIN 23 
+FUNCTION -24 PIN 24 
+FUNCTION -25 PIN 25 
+FUNCTION -26 PIN 26 
+FUNCTION -27 PIN 27 
+FUNCTION -28 PIN 28 
+FUNCTION -29 PIN 29 
+FUNCTION -30 PIN 30 
+PACKAGEPROP PART_NAME X
+PACKAGEPROP VALUE 2530-
+END
+
